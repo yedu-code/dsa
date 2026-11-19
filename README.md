@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yedu-code/dsa/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
