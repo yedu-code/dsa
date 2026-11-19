@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yedu-code/dsa/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yedu-code/dsa/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yedu-code/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
