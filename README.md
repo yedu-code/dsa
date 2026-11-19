@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yedu-code/dsa/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/yedu-code/dsa/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/yedu-code/dsa/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yedu-code/dsa/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -49,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yedu-code/dsa/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yedu-code/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
